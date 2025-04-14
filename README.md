@@ -64,6 +64,4 @@ game-shop/
 
 Desenvolvido como projeto de portfólio para demonstração de habilidades em HTML e CSS.
 
-## Licença
 
-[Sua licença escolhida]
